@@ -1,0 +1,8 @@
+InvalidCategory,Gaming,DTPCG1,GGPC,Intel Core i5,16,500,2199
+Desktop PC,InvalidType,DTPCG1,GGPC,Intel Core i5,16,500,2199
+Desktop PC,Gaming,DTPCG1,GGPC,Intel Core i5,16.5,500,2199
+Desktop PC,Gaming,DTPCG1,GGPC,Intel Core i5,16,500.5,2199
+Desktop PC,Gaming,DTPCG1,GGPC,Intel Core i5,16,500,InvalidPrice
+Laptop,Business,LTB1,HP,Intel Core i5,8,256,InvalidScreenSize,1647
+Tablet,Android,TBAD1,LENOVO,Snapdragon,InvalidScreenSize,214
+Desktop PC,Gaming,DTPCG1,GGPC,Intel Core i5,16
